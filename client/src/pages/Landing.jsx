@@ -18,10 +18,10 @@ const Landing = () => {
             Est mollit ea ea dolore anim. Fugiat ut tempor dolore aute aliqua
             eiusmod sunt. Enim officia aliquip anim commodo.
           </p>
-          <Link to="/register" classNamebtn register-link>
+          <Link to="/register" className="btn register-link">
             Register
           </Link>
-          <Link to="/login" classNamebtn register-link>
+          <Link to="/login" className="btn register-link">
             Login
           </Link>
         </div>
